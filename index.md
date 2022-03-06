@@ -2,13 +2,11 @@
 title: 
 feature_text: |
   ## Lucas Câmara
-  Political science masters student at the University of São Paulo
+  <br>
+  **Political science masters student at the University of São Paulo**
 feature_image: "http://www.octaviocardoso.com.br/Public/images//minha_ilha1.jpg"
 excerpt: ""
 ---
-
-### About me
-
 
 Hello! I’m a Brazilian political science master’s student from Belém, Pará, residing in São Paulo for the past ten years. I’m interested in more than one can possible handle, but during my masters I’ve been studying electoral politics in comparative perspective. For my master’s thesis, I’m revisiting some key aspects of pre-electoral coordination in a single-country case study of Brazil, specifically the permissiveness of Lower House electoral systems, the role played by different levels of government in shaping pre-electoral coordination, and how those aspects interact in explaining the strategic underpinnings of party elites’ behaviour. In my (nonexixtent) spare time I cycle, run, and get ready for this year’s application cycle. Feel free to contact me at lucas[dot]camara[at]usp[dot]br
 
