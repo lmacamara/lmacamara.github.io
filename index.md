@@ -1,9 +1,9 @@
 ---
 title: 
-feature_text: |
+feature_text: 
   ## Lucas Câmara
   Political science masters student at the University of São Paulo
-feature_image: "https://onanquimdemaraba.com.br/wp-content/uploads/2021/10/11-Pescando-com-tarrafa-Pedro-Morbach-1-713x1024.jpg"
+feature_image: "https://i.pinimg.com/originals/fc/34/9f/fc349f47eb89942eaa494547d135208b.jpg"
 excerpt: ""
 ---
 
