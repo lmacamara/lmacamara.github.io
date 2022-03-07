@@ -1,6 +1,6 @@
 ---
 title: CV
-layout: default
+layout: page
 excerpt: ""
 aside: true
 ---
