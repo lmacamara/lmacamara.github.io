@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-  Lucas Câmara
+  ### Lucas de Arruda Câmara
   
 feature_image: "https://f.i.uol.com.br/fotografia/2019/10/11/15708308975da0fa31980ee_1570830897_3x2_rt.jpg"
 excerpt: ""
