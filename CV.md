@@ -1,7 +1,7 @@
 ---
 title: CV
-layout: categories
-excerpt: "Category index"
+layout: default
+excerpt: ""
 aside: true
 ---
 
