@@ -20,7 +20,7 @@ Coligações e Fragmentação Partidária: Notas para um Balanço. In: Luciano I
 
 CartaCapital: [Entre passado e futuro, o PT precisa ainda superar dois importantes desafios](https://www.cartacapital.com.br/artigo/entre-passado-e-futuro-o-pt-precisa-ainda-superar-dois-importantes-desafios/). Feb 2022.
 
-####### Comments on media
+###### Comments on media
 
 UOL. Lula-Alckmin e Ciro-Marina: chapas de ex-presidenciáveis são incomuns. [2022](https://noticias.uol.com.br/politica/ultimas-noticias/2022/01/24/chapas-ex-presidenciaveis-lula-alckmin.htm).
 <br>
