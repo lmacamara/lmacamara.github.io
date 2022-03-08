@@ -14,5 +14,4 @@ Hello! I’m a Brazilian political science master’s student from Belém, Pará
 {% include button.html text="Lattes" link=" http://lattes.cnpq.br/1999148675539547" color="#f68140" %} {% include button.html text="Orcid" link="https://orcid.org/
 0000-0001-6811-7596" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/lmacamara" color="#0d94e7" %} {% include button.html text="Github" icon="github" link="https://github.com/lmacamara" color="#0366d6" %}
 
-## TBD
 
