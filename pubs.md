@@ -24,4 +24,4 @@ UOL. Lula-Alckmin e Ciro-Marina: chapas de ex-presidenciáveis são incomuns. [2
 <br>
 UOL. Moro volta à política para tentar criar novo polo contra Lula e Bolsonaro. [2021](https://noticias.uol.com.br/politica/ultimas-noticias/2021/11/06/sergio-moro-personagem-da-semana.htm).
 <br>
-UOL. Justiça e derrotas tiram Serra e Alckmin da eleição pela 1ª vez desde 1996. 2020(https://noticias.uol.com.br/eleicoes/2020/09/12/serra-alckmin-eleicoes-prefeitura-sp-psdb.htm).
+UOL. Justiça e derrotas tiram Serra e Alckmin da eleição pela 1ª vez desde 1996. [2020](https://noticias.uol.com.br/eleicoes/2020/09/12/serra-alckmin-eleicoes-prefeitura-sp-psdb.htm).
