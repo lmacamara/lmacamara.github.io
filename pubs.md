@@ -11,8 +11,8 @@ description: Here are some links for publications, op-eds, commentary and the li
 
 #### Academic
 
+
 ##### Working Papers
-<br>
 
 **Permissiveness and fragmentation in Brazilian national elections**
 <br>
