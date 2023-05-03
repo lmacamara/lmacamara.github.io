@@ -9,7 +9,7 @@ excerpt: ""
 
 #### About me
 
-Hello! I’m a political scientist in the making from Belém, Pará, residing in São Paulo for the past ten years - and on my way to Chicagoland as an incoming PhD student at the Department of Political Science at Northwestern University starting on Fall 2023. Feel free to reach out at lucascamara[at]u.northwestern.edu 
+Hello! I’m a political scientist [in the making] from Brazil, now on my way to Chicagoland as an incoming PhD student at the Department of Political Science at Northwestern University starting Fall 2023. Feel free to reach out at lucascamara[at]u.northwestern.edu 
 
 {% include button.html text="Lattes" link=" http://lattes.cnpq.br/1999148675539547" color="#f68140" %} {% include button.html text="Orcid" link="https://orcid.org/
 0000-0001-6811-7596" color="#0366d6" %} {% include button.html text="Github" icon="github" link="https://github.com/lmacamara" color="#0366d6" %}
